@@ -4,7 +4,7 @@ Presentation documents and abstracts
 
   `YYYY-MM_Conference_AuthorLast_Title.pdf`
 
-  `ppt` allowed if animations.
+  `ppt` allowed if animations. Use hyphens in `Conference` and `Title`.
 * for abstracts, use
 
   `YYYY-MM_Conference_AuthorLast_Title.abstract.{pdf,txt}`
